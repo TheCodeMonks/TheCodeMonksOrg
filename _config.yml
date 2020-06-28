@@ -1,13 +1,13 @@
 # Site
 name: "The Code Monks"
 title: "The Code Monks"
-description: "Description coming soon"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "Tech bytes for Monks by Monks"
+logo: 'assets/images/logo3.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: 
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: 'UA-171126841-1'
+disqus: 'thecodemonks'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: thecodemonksorg@gmail.com
@@ -17,20 +17,19 @@ authors:
   sanjay:
     name: Sanjay
     display_name: Spikey Sanju
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    image: https://avatars0.githubusercontent.com/u/23400022?s=460&u=6d4ab222b99d07552d80a6c3fd36f47ec1e071c4&v=4
     email: dvlprsanju@gmail.com
     web: https://github.com/spikeysanju
     twitter: https://twitter.com/sanjay_spikey
-    description: "A passionate Android and Fullstack Designer"
+    description: "A Passionate Android Developer & UI/UX Ninja"
   waseem:
     name: Waseem
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    display_name: Waseem Akram    
+    image: https://avatars3.githubusercontent.com/u/12982964?s=460&u=85e440ef14bfab99b297d414d57d73d5ff6a6ced&v=4
     email: wowthemesnet@gmail.com
     web: https://n0nu11.tech
     twitter: https://twitter.com/iamwaseem99
-    description: "iOS Developer with Cybersecurity Skills"
+    description: "iOS Developer with Cybersecurity skills"
 
 # Plugins
 plugins:
@@ -54,11 +53,11 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: prism
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
-      disable : true
+      disable : false
 
 
 
