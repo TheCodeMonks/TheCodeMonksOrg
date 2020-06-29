@@ -8,6 +8,7 @@ imageshadow: true
 
 We Passionate _**The Code Monks**_ curious to solve various difficulties via software development. We started The Code Monks for FOSS. We like to give back to the community which we have learned a lot of knowledge from them.
 
+$~$
 
 <table style="width:100%">
   
@@ -16,22 +17,29 @@ We Passionate _**The Code Monks**_ curious to solve various difficulties via sof
     <td><img src = "https://avatars3.githubusercontent.com/u/12982964?s=460&u=85e440ef14bfab99b297d414d57d73d5ff6a6ced&v=4"/></td>
   </tr>
 
-<tr>
+  <tr>
     <th>Spikey sanju </th>
     <th>Waseem Akram</th> 
   </tr>
-  
+
+
  <tr>
     <th>Android Developer & UI/UX Designer </th>
     <th>iOS Developer with Cyber Security Skills</th> 
   </tr>
+
 </table>
+
+
+$~$
 
 ## Our Goal
 
 ##### To inspire and nurture the human spirit with developers around the world
 
 Our mission is to be one of the world’s leading developers and providers of various Free & Open-Source Sofware (FOSS) Projects via Best Explainer Blog & Videos. We seek to develop the most creative, innovative, and profitable Opensource project, UI/UX Design and Programming related contents in the Software world.
+
+$~$
 
 ## Our Spirit
 
