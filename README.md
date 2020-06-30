@@ -1,4 +1,4 @@
-![GitHub Cards Preview](https://github.com/Spikeysanju/TheCodeMonksOrg/blob/master/assets/images/THE%20CODE%20MONKS%20GITHUB%20CARD.jpg)
+![GitHub Cards Preview](https://github.com/TheCodeMonks/TheCodeMonksOrg/blob/master/assets/images/THE%20CODE%20MONKS%20GITHUB%20YELLOW%20CARD.jpg)
 
 
 
