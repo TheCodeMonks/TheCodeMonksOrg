@@ -9,7 +9,7 @@ imageshadow: true
 We Passionate _**The Code Monks**_ curious to solve various difficulties via software development. We started The Code Monks for FOSS. We like to give back to the community which we have learned a lot of knowledge from them.
 &nbsp;
 
-##The Monks
+## The Monks
 <table style="width:100%">
   <tr>
     <td><img src = "https://avatars0.githubusercontent.com/u/23400022?s=460&u=6d4ab222b99d07552d80a6c3fd36f47ec1e071c4&v=4"/></td> 
@@ -21,7 +21,7 @@ We Passionate _**The Code Monks**_ curious to solve various difficulties via sof
     <th>Waseem Akram</th> 
   </tr>
  <tr>
-    <th>A Passionate Android Developer & UI/UX Designer </th>
+    <th>Android Developer & UI/UX Designer </th>
     <th>iOS Developer with Cyber Security Skills</th> 
   </tr>
 </table>
