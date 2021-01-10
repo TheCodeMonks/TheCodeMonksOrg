@@ -14,15 +14,18 @@ We Passionate _**The Code Monks**_ curious to solve various difficulties via sof
   <tr>
     <td><img src = "https://avatars0.githubusercontent.com/u/23400022?s=460&u=6d4ab222b99d07552d80a6c3fd36f47ec1e071c4&v=4"/></td> 
     <td><img src = "https://avatars3.githubusercontent.com/u/12982964?s=460&u=85e440ef14bfab99b297d414d57d73d5ff6a6ced&v=4"/></td>
+    <td><img src = "https://avatars1.githubusercontent.com/u/9678279?v=4"/></td>
   </tr>
 
   <tr>
     <th>Spikey sanju </th>
     <th>Waseem Akram</th> 
+    <th>theapache64</th>
   </tr>
  <tr>
     <th>Android Developer & UI/UX Designer </th>
     <th>iOS Developer with Cyber Security Skills</th> 
+    <th>Android Developer & Kotlin Enthusiast</th> 
   </tr>
 </table>
 
