@@ -21,7 +21,7 @@ We Passionate _**The Code Monks**_ curious to solve various difficulties via sof
     <th>Waseem Akram</th>
   </tr>
  <tr>
-    <th>Android Developer & UI/UX Designer</th>
+    <th>Android Engineer & UI/UX Designer</th>
     <th>iOS Engineer</th>
     <th>iOS Developer with Cyber Security Skills</th>
   </tr>
